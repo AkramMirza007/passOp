@@ -2,7 +2,7 @@ import React from 'react'
 
 const Navbar = () => {
   return (
-    <nav className='flex w-100 text-white h-14 bg-slate-500 justify-between items-center shadow-xl border-2'>
+    <nav className='flex w-100 text-white h-14 bg-slate-800 justify-between items-center shadow-xl border-2'>
       <div className="logo text-[2vw] font-bold ml-10 flex items-center justify-center">PassOP <lord-icon
     src="https://cdn.lordicon.com/khheayfj.json"
     trigger="hover"
